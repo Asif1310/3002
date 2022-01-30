@@ -1,2 +1,1 @@
-# 3002
-Logistic regression project
+This project deals with building a classification machine learning model on a breast cancer dataset from University of Wisconsin Hospitals in Wisconsin, USA. A logistic regression classification model is built on this dataset by utilzing google colab and Python
